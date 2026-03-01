@@ -7,18 +7,28 @@ import (
 
 func main(){
    fmt.Println("hello world")
-   fmt.Println(1+1)
+   //fmt.Println(1+1)
 
-   var name string ="sahil"
+   //var name string ="sahil"
    //or
-   var nam ="sam"
-   fmt.Println(name)
-   fmt.Println(nam)
+  // var nam ="sam"
+   //fmt.Println(name)
+   //fmt.Println(nam)
 
    // shorthand Syntax
    namee :="sahill"
-   fmt.Println(namee)
+   //fmt.Println(namee)
    fmt.Println(reflect.TypeOf(namee))
 
    constant()
+
+   //fmt.Println("loops")
+
+   loop()
+
+   //fmt.Println("Switch")
+   switchh()
+
+   array()
+
 }
