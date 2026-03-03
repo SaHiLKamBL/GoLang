@@ -30,5 +30,11 @@ func main(){
    switchh()
 
    array()
+   
+   //Slices
+   slice()
+
+   //mapp
+   mapp()
 
 }
