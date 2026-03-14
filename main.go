@@ -37,4 +37,12 @@ func main(){
    //mapp
    mapp()
 
+   //Range
+    rangee()
+
+    //function
+    body()
+
+    // clousers
+    clouser()
 }
